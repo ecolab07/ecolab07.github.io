@@ -25,7 +25,7 @@ et de détecter les touches défaillantes ou non reconnues.
 - Installation : aucune
 - Public : grand public, réparateurs, reconditionneurs
 
-→ Dépôt GitHub : *(lien à venir)*
+→ https://ecolab07.github.io/keyboard-tester/
 
 ---
 
